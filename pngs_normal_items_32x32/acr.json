@@ -1,7 +1,6 @@
 {
   "id": [
-    "acr",
-    "m16_auto_rifle_var_acr"
+    "modular_m16_auto_rifle_var_acr"
   ],
   "fg": "acr",
   "rotates": false
