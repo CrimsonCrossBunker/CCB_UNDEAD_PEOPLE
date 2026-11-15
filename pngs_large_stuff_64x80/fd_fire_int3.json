@@ -1,9 +1,9 @@
 {
-  "id": "fd_fire",
+  "id": "fd_fire_int3",
   "fg": [
     {
       "weight": 11,
-      "sprite": "fd_fire"
+      "sprite": "fd_fire_int3"
     },
     {
       "weight": 11,
