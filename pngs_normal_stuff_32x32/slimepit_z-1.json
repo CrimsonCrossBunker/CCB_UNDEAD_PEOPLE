@@ -1,9 +1,6 @@
 {
   "id": [
-    "slimepit_z-1",
-    "slimepit_bottom",
-    "slimepit_down",
-    "slimepit"
+    "slimepit_z-1"
   ],
   "fg": "slimepit_z-1",
   "rotates": false

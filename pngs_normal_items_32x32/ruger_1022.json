@@ -1,8 +1,5 @@
 {
-  "id": [
-    "ruger_1022",
-    "ruger1022"
-  ],
+  "id": "ruger_1022",
   "fg": "ruger_1022",
   "bg": "10mmP_bg",
   "rotates": false

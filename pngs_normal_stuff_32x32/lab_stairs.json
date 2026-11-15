@@ -1,7 +1,6 @@
 {
   "id": [
-    "lab_stairs",
-    "ice_lab_stairs"
+    "lab_stairs"
   ],
   "fg": "lab_stairs",
   "rotates": false
