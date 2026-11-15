@@ -1,8 +1,7 @@
 {
   "id": [
     "central_lab_core",
-    "lab_core",
-    "ice_lab_core"
+    "lab_core"
   ],
   "fg": "central_lab_core",
   "rotates": false

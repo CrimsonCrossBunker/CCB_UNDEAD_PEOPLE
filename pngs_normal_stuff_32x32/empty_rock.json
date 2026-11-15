@@ -1,7 +1,7 @@
 {
   "id": [
     "empty_rock",
-    "microlab_rock_border"
+    "special_rock"
   ],
   "fg": "empty_rock",
   "rotates": false
