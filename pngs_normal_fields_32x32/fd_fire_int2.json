@@ -1,29 +1,29 @@
 {
-  "id": "fd_fire_brazier",
+  "id": "fd_fire_int2",
   "fg": [
     {
       "weight": 11,
-      "sprite": "fd_fire_brazier"
+      "sprite": "fd_fire_int2"
     },
     {
       "weight": 11,
-      "sprite": "fd_fire_brazier_1"
+      "sprite": "fd_fire_firering_1"
     },
     {
       "weight": 11,
-      "sprite": "fd_fire_brazier_2"
+      "sprite": "fd_fire_firering_2"
     },
     {
       "weight": 11,
-      "sprite": "fd_fire_brazier_3"
+      "sprite": "fd_fire_firering_3"
     },
     {
       "weight": 11,
-      "sprite": "fd_fire_brazier_4"
+      "sprite": "fd_fire_firering_4"
     },
     {
       "weight": 11,
-      "sprite": "fd_fire_brazier_5"
+      "sprite": "fd_fire_firering_5"
     }
   ],
   "rotates": false,
