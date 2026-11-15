@@ -1,8 +1,7 @@
 {
   "id": [
     "lab_finale",
-    "central_lab_finale",
-    "ice_lab_finale"
+    "central_lab_finale"
   ],
   "fg": "lab_finale",
   "rotates": false

@@ -1,7 +1,6 @@
 {
   "id": [
     "central_lab",
-    "lab",
     "lab_escape_cells",
     "lab_escape_entrance",
     "central_lab_hq_1",
@@ -12,8 +11,7 @@
     "central_lab_hq_6",
     "central_lab_hq_7",
     "central_lab_hq_8",
-    "central_lab_hq_9",
-    "ice_lab"
+    "central_lab_hq_9"
   ],
   "fg": "LIXA_workfloor_1a",
   "rotates": false
