@@ -1,0 +1,46 @@
+{
+  "id": "fd_smoke_int3",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "fd_smoke_int2_9"
+    }
+  ],
+  "animated": true
+}

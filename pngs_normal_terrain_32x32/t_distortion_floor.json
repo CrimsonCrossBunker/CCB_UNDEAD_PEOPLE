@@ -3,43 +3,43 @@
   "fg": [
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1"
+      "sprite": "fd_hot_air_sauna"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_1"
+      "sprite": "fd_hot_air_sauna_1"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_2"
+      "sprite": "fd_hot_air_sauna_2"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_3"
+      "sprite": "fd_hot_air_sauna_1_3"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_4"
+      "sprite": "fd_hot_air_sauna_4"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_5"
+      "sprite": "fd_hot_air_sauna_5"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_4"
+      "sprite": "fd_hot_air_sauna_4"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_3"
+      "sprite": "fd_hot_air_sauna_1_3"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_2"
+      "sprite": "fd_hot_air_sauna_2"
     },
     {
       "weight": 15,
-      "sprite": "fd_fatigue_int1_1"
+      "sprite": "fd_hot_air_sauna_1"
     }
   ],
   "bg": "t_highland_bronze_floor",
